@@ -1,4 +1,4 @@
-### what is a readme coded in please kill me
+### what is this please kill me
 
 <!--
 **MapleShott/mapleshott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
