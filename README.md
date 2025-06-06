@@ -1,4 +1,5 @@
-### what is this please kill me
+### hello
+Hi! I'm Maple! I dont usually use github, but sometimes I go on here to either goof around or to work on stuff.
 
 <!--
 **MapleShott/mapleshott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
