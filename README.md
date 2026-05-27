@@ -6,8 +6,8 @@ I know these languages
 - Lua (most experienced)
 - Luau (really good at)
 - GDScript (i like making games)
-- Bash (i mean i use linux!)
 - C++ (REALLY inexperienced)
+- C# (inexperienced)
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MapleShott&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MapleShott&theme=codeSTACKr) 
